@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Importing Libraries
-
-# In[1]:
-
-
 import cv2
 import os
 
