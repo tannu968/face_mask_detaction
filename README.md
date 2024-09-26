@@ -1,4 +1,4 @@
-Project Overview
+##Project Overview
 This project implements a real-time face mask detection system using OpenCV for face detection and Support Vector Machine (SVM) for mask classification. The system detects faces in real-time using a webcam, classifies them as "Mask" or "No Mask," and displays the result on the screen.
 
 Features
